@@ -1,4 +1,5 @@
-### Hi there 👋,I'm Deepakkumar Maurya.
+## Hi there 👋,I'm Deepakkumar Maurya.
+### I specialize in backend development using Node.js, Express.js, Sails.js, Mocha & Chai for testing, Serverless architecture, and Nest.js framework.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak-Maurya-Zignuts&show_icons=true&theme=dracula" alt="Deepak-Maurya-Zignuts" /></p>
 
