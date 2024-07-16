@@ -1,5 +1,6 @@
 ## Hi there 👋,I'm Deepakkumar Maurya.
 ### Full-Stack Web Developer
+![red](https://komarev.com/ghpvc/?username=Deepak-Maurya-Zignuts&color=red)
 ### expertise 
 <table>
   <tr>
